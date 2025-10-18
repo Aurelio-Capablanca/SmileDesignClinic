@@ -105,6 +105,7 @@ document.getElementById('save-Cuenta-form').addEventListener('submit', function 
     saveRow(API_PAGOS, action, 'save-Cuenta-form', 'save-Cuenta-modal');
 });
 
+
 function openInsertCalculo(id) {
     // Se restauran los elementos del formulario.
     document.getElementById('save-Cuenta-form').reset();

@@ -103,6 +103,7 @@ Dashboard_Page::headerTemplate('Pagos');
             </div>            
         </div>
   	</div>
+    
 </div>
 
 <div id="save-modalE" class="modal">

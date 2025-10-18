@@ -1,7 +1,6 @@
 <?php
-/*
-*	Clase para manejar la tabla usuarios de la base de datos. Es clase hija de Validator.
-*/
+
+
 class Usuarios extends Validator
 {
     // Declaración de atributos (propiedades).
